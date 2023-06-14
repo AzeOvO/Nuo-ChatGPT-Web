@@ -200,7 +200,11 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "有什么可以帮你的吗",
+    BotHello: `**欢迎来到 Aze ChatGPT Web**
+    **此网站免费提供 如果您是购买所得 请联系对方进行退款**
+    **-> 如果出现任何问题可以联系![图片]( /QQ.png)[QQ](https://tool.gljlw.com/qq/?qq=1540682234)**
+    **-> 或者添加![图片]( /WeChat.png)[微信公众号](https://mp.weixin.qq.com/s?__biz=MzkzMDQyMzkyNg==&mid=2247483656&idx=1&sn=46cbc06a961cacfd1d3c6253125a312f&chksm=c27b3411f50cbd078751530209904efa7faa18b0ee7075794019e939c0074befb27ceffe597f#rd)寻找问题解决办法**
+    **-> 也可以访问![图片]( /web.png)[My Home](https://Home.azeee.cn)**`,
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
