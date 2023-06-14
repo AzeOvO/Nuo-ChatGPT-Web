@@ -203,7 +203,8 @@ const cn = {
     BotHello: `**欢迎来到 Aze ChatGPT Web**
     **此网站免费提供 如果您是购买所得 请联系对方进行退款**
     **-> 如果出现任何问题可以联系![图片]( /QQ.png)[QQ](https://tool.gljlw.com/qq/?qq=1540682234)**
-    **-> 查看最新更新公告请访问![图片]( /WeChat.png)[微信公众号](https://mp.weixin.qq.com/s?__biz=MzkzMDQyMzkyNg==&mid=2247483656&idx=1&sn=46cbc06a961cacfd1d3c6253125a312f&chksm=c27b3411f50cbd078751530209904efa7faa18b0ee7075794019e939c0074befb27ceffe597f#rd)**
+    **-> ChatGPT详细使用教程![图片]( /WeChat.png)[微信公众号](https://mp.weixin.qq.com/s?__biz=MzkzMDQyMzkyNg==&mid=2247483656&idx=1&sn=46cbc06a961cacfd1d3c6253125a312f&chksm=c27b3411f50cbd078751530209904efa7faa18b0ee7075794019e939c0074befb27ceffe597f#rd)**
+    **-> 网站更新公告详情![图片]( /WeChat.png)[微信公众号](https://mp.weixin.qq.com/s?__biz=MzkzMDQyMzkyNg==&mid=2247483666&idx=1&sn=4a0ec5c5ae938eedcf5db6a209e1f1d4&chksm=c27b340bf50cbd1d054d808988e520660affe11a48db105f7ee774e92acb7101ef50012b70d1#rd)**
     **-> 欢迎支持我![图片]( /web.png)[My Home](https://Home.azeee.cn)**`,
     Error: "出错了，稍后重试吧",
     Prompt: {
